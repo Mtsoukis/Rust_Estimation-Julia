@@ -21,6 +21,10 @@ This repository implements the structural estimation of the bus-engine replaceme
 - `README.md`  
   This file.
 
+##Results
+
+The notebook outputs parameter estimates, computation times, and EV function visualizations for both NFXP and MPEC. I show that using JuMP indeed does solve this problem; Cris used AMPL. 
+
 ## License
 
 This project is released under the MIT License.
