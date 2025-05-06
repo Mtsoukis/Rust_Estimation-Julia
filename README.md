@@ -18,6 +18,8 @@ This repository implements the structural estimation of the bus-engine replaceme
   - `x_it`: Mileage state  
 - `Rust_Problems.pdf`  
   Problem set.
+- `generate_data.jl`  
+  Generates bus data
 - `README.md`  
   This file.
 
