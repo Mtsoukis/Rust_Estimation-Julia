@@ -29,7 +29,7 @@ A script to perform a Monte Carlo Simulation, the output of which is the figures
 
 The notebook outputs parameter estimates, computation times, and EV function vizualizations for both NFXP and MPEC. I use JuMP to solve this problem; Chris used AMPL. 
 
-From Monte Carlo: 
+From Monte Carlo (10,000 runs, 100,000 buses, 200 time periods): 
 
 ![alt text](https://github.com/Mtsoukis/Rust_Estimation-Julia/blob/main/Figures/theta1.png)
 ![alt text](https://github.com/Mtsoukis/Rust_Estimation-Julia/blob/main/Figures/theta2.png)
