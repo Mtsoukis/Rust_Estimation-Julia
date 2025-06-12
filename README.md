@@ -31,9 +31,9 @@ The notebook outputs parameter estimates, computation times, and EV function viz
 
 From Monte Carlo: 
 
-![alt text](https://github.com/Mtsoukis/Rust_Estimation-Julia/Figures/theta1.png)
-![alt text](https://github.com/Mtsoukis/Rust_Estimation-Julia/Figures/theta2.png)
-![alt text](https://github.com/Mtsoukis/Rust_Estimation-Julia/Figures/RC.png)
+![alt text](https://github.com/Mtsoukis/Rust_Estimation-Julia/blob/main/Figures/theta1.png)
+![alt text](https://github.com/Mtsoukis/Rust_Estimation-Julia/blob/main/Figures/theta2.png)
+![alt text](https://github.com/Mtsoukis/Rust_Estimation-Julia/blob/main/Figures/RC.png)
 
 ## License
 
